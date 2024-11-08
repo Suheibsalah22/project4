@@ -1,0 +1,77 @@
+h1{
+    color: red;
+}
+h2{
+    color: green;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: gray;
+    padding: 17px;
+    margin: 0px;
+    
+
+}
+
+.navbar a{
+    color: red;
+    text-decoration: none;
+    display: inline;
+    padding: 15px;
+    
+    
+    text-align: center;
+
+}
+.navbar a:hover{
+    background-color: black;
+}
+
+.navbar li{
+    float: left;
+}
+
+button{
+    color: white;
+    background: green;
+    margin-left: 16px;
+}
+.b1 {
+    background:blue;
+    color: white;
+    text-align: center;
+    margin-left: 70px;
+    padding: 10px;
+}
+.b11{
+    background: blue;
+    color: white;
+}
+.blogg{
+    background: #ddd;
+    
+}
+.sec1{
+    background-color: #ddd;
+    padding: 15px;
+    margin: 18px;
+    width: 350px;
+
+
+}
+
+
+footer{
+    background-color: #ddd;
+    padding: 15px;
+    margin: 18px;
+    width: 350px;
+}
+
+
+.ft a{
+    text-decoration: none;
+    
+
+}
